@@ -1,0 +1,10 @@
+{
+    "app_name": "PyPal",
+    "app_icon": "💬",
+    "app_descr": "Supporting you to get going with Python and Streamlit.",
+    "start_message": "Welcome to this little micro-course! My ambition is to give you an introduction to Python and Streamlit, to support you in installing the programs, and to helps you develop a first 'hello world' app. \n\nBefore we begin, can you please tell me your first name and your preferred language for this course?",
+    "max_words_per_query": 200,
+    "data_dir": "./data",
+    "api_config_file": "./azure_api_config.json",
+    "system_prompt_filename": "./system_prompt.txt"
+}

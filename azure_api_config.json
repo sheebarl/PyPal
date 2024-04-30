@@ -1,0 +1,37 @@
+[
+    {
+        "supplier": "azure",
+        "model": "GPT-4-Turbo",
+        "endpoint": "",
+        "version": "2024-02-15-preview",
+        "key": ""
+    },
+    {
+        "supplier": "azure",
+        "model": "GPT4",
+        "endpoint": "",
+        "version": "2024-02-15-preview",
+        "key": ""
+    },
+    {
+    "supplier": "azure",
+    "model": "gpt-4-32k",
+    "endpoint": "",
+    "version": "2024-02-15-preview",
+    "key": ""
+    },
+    {
+        "supplier": "azure",
+        "model": "gpt-35-turbo",
+        "endpoint": "",
+        "version": "2024-02-15-preview",
+        "key": ""
+    },
+    {
+        "supplier": "azure",
+        "model": "text-embedding-ada-002",
+        "endpoint": "",
+        "version": "2024-02-15-preview",
+        "key": ""
+    }
+]
